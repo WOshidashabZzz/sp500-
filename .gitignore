@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+# Local runtime output and market-data cache
+run_log.txt
+sp500_cache.csv
+spy_stooq_cache.csv
+
+# Local notes, experiments, and ad-hoc tests
+PROJECT_NOTES.md
+strategy_engine_v1.py
+test.py
+
+# Local environment files
+.env
+.venv/
+venv/
